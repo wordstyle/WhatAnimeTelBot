@@ -1,7 +1,7 @@
 # trace.moe-telegram-bot
 
-[![License](https://img.shields.io/github/license/soruly/trace.moe-telegram-bot.svg?style=flat-square)](https://github.com/soruly/trace.moe-telegram-bot/blob/master/LICENSE)
-[![GitHub Workflow Status](https://img.shields.io/github/workflow/status/soruly/trace.moe-telegram-bot/Node.js%20CI?style=flat-square)](https://github.com/soruly/trace.moe-telegram-bot/actions)
+[![License](https://img.shields.io/github/license/soruly/trace.moe-telegram-bot.svg?style=flat-square)](https://github.com/wordstyle/WhatAnimeTelBot/blob/master/LICENSE)
+[![GitHub Workflow Status](https://img.shields.io/github/workflow/status/soruly/trace.moe-telegram-bot/Node.js%20CI?style=flat-square)](https://github.com/wordstyle/WhatAnimeTelBot/actions)
 [![Docker](https://img.shields.io/docker/pulls/soruly/trace.moe-telegram-bot?style=flat-square)](https://hub.docker.com/r/soruly/trace.moe-telegram-bot)
 [![Docker Image Size](https://img.shields.io/docker/image-size/soruly/trace.moe-telegram-bot/latest?style=flat-square)](https://hub.docker.com/r/soruly/trace.moe-telegram-bot)
 [![Discord](https://img.shields.io/discord/437578425767559188.svg?style=flat-square)](https://discord.gg/K9jn6Kj)
@@ -45,7 +45,7 @@ You need to disable [Privacy Mode](https://core.telegram.org/bots#privacy-mode) 
 
 ### Host with docker
 
-Docker Image available on [Docker Hub](https://hub.docker.com/repository/docker/soruly/trace.moe-telegram-bot) or [GitHub Container Registry](https://github.com/soruly/trace.moe-telegram-bot/pkgs/container/trace.moe-telegram-bot)
+Docker Image available on [Docker Hub](https://hub.docker.com/repository/docker/soruly/trace.moe-telegram-bot) or [GitHub Container Registry](https://github.com/wordstyle/WhatAnimeTelBot/pkgs/container/trace.moe-telegram-bot)
 
 ```
 docker run -it --rm --init --name trace-moe-tg-bot \
