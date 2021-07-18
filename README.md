@@ -1,4 +1,4 @@
-# trace.moe-telegram-bot
+# WhatAnimeTelBot
 
 [![License](https://img.shields.io/github/license/soruly/trace.moe-telegram-bot.svg?style=flat-square)](https://github.com/wordstyle/WhatAnimeTelBot/blob/master/LICENSE)
 [![GitHub Workflow Status](https://img.shields.io/github/workflow/status/soruly/trace.moe-telegram-bot/Node.js%20CI?style=flat-square)](https://github.com/wordstyle/WhatAnimeTelBot/actions)
